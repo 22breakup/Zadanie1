@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11252a3d-1900-4cda-91bf-b274ae067ef9" name="Changes" comment="Added.Zadanie1">
-      <change afterPath="$PROJECT_DIR$/src/Zadanie2.java" afterDir="false" />
+    <list default="true" id="11252a3d-1900-4cda-91bf-b274ae067ef9" name="Changes" comment="Added.Zadanie2">
+      <change afterPath="$PROJECT_DIR$/src/Zadanie3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,21 @@
     "last_opened_file_path": "C:/Users/Leo/IdeaProjects/Zadanie1"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zadanie2">
+  <component name="RunManager" selected="Application.Zadanie3">
+    <configuration name="ArrayIndexOutOfBoundsException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayIndexOutOfBoundsException" />
+      <module name="Zadanie1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Zadanie1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadanie1" />
       <module name="Zadanie1" />
@@ -57,8 +72,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadanie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie3" />
+      <module name="Zadanie1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie3" />
+        <item itemvalue="Application.ArrayIndexOutOfBoundsException" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Zadanie2" />
         <item itemvalue="Application.Zadanie1" />
       </list>
@@ -80,11 +105,30 @@
       <option name="project" value="LOCAL" />
       <updated>1671712125474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added.Zadanie2">
+      <created>1672089092654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672089092654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added.Zadanie1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added.Zadanie1" />
+    <MESSAGE value="Added.Zadanie2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added.Zadanie2" />
   </component>
 </project>
